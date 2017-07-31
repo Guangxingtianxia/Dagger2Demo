@@ -9,4 +9,5 @@ package com.yizijob.www.dagger2demo.module.coffee;
 
 public  abstract class Ab<Me,LanErGongZhu>
 {
+
 }
